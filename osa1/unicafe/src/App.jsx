@@ -1,11 +1,10 @@
 import { useState } from 'react'
 
-// Button-komponentti palautteen antamiseen
+
 const Button = ({ text, handleClick }) => {
   return <button onClick={handleClick}>{text}</button>
 }
 
-// StatisticLine-komponentti tilastorivien näyttämiseen
 const StatisticLine = ({ text, value }) => {
   return (
     <p>
