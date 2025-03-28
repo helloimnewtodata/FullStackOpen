@@ -34,11 +34,11 @@ const App = () => {
     name: 'Half Stack application development',
     parts: [
       {
-        name: 'Fundamentals of React',
+        name: 'Onnin ikä',
         exercises: 10
       },
       {
-        name: 'Using props to pass data',
+        name: 'Artturin ikä',
         exercises: 7
       },
       {
